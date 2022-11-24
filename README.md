@@ -3,7 +3,7 @@
   <div id="badges" >
   <!-- <a href="https://www.linkedin.com/in/meiran-zhiyenbayev"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <!--</a> -->
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -14,13 +14,13 @@
 ### :man_technologist: About Me :
 I am a Junior Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- :telescope: I’m student at Kazakh national university named Al-Farabi.
+- :telescope: I am student at Kazakh National University named Al Farabi
 
-- :seedling: Exploring data engineering tools.
+- :seedling: Exploring data engineering tools
 
 - :zap: In my free time, I take online classes on coursera.
-
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -35,4 +35,4 @@ I am a Junior Data Engineer from Kazakhstan <img src="https://media.giphy.com/me
 ---
 
 ### :fire: My Stats :
-![Temirlan's GitHub stats (https://github-readme-stats.vercel.app/api?username=TimmmYYY&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Temirlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmmyyy&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
